@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Donna
+
+Just having fun coding !   Main languages Java and Python with a bit of JavaScript, HTML and CSS addded in.
 
 <!--
 **DonnaRichards/DonnaRichards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
